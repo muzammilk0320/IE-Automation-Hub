@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "IE Industrial"
+description = "A premium industrial automation and instrumentation catalog for discovering products, reviewing technical details, and submitting quote inquiries."
+version = "1.0.0"
+id = "artifacts/ie-industrial"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 19010
+
+[services.development]
+run = "pnpm --filter @workspace/ie-industrial run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/ie-industrial", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/ie-industrial/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "19010"
+BASE_PATH = "/"

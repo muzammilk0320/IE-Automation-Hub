@@ -1,0 +1,505 @@
+Create a premium, modern, high-end industrial automation and instrumentation website inspired by the overall usability and product-discovery experience of a large industrial parts marketplace such as Radwell, but DO NOT copy its branding, logo, text, images, layout, or visual identity.
+
+**Website brand name: IE**
+
+Website purpose:
+Build a professional industrial product catalog and inquiry platform for automation, instrumentation, process control, flow measurement, gas analysis, electrical and industrial equipment.
+
+### DESIGN STYLE
+
+Use a sophisticated corporate industrial design.
+
+Color palette:
+
+* Deep Navy Blue: #061A33
+* Corporate Blue: #0B3A66
+* Bright Blue: #0878C9
+* Subtle Cyan: #18C7E8
+* White: #FFFFFF
+* Light Gray: #F4F7FA
+* Dark Text: #17212B
+
+Design should feel:
+
+* Premium
+* Industrial
+* Technical
+* Trustworthy
+* Modern
+* Clean
+* High-end corporate
+* Suitable for B2B engineering companies
+
+Use generous whitespace, sharp typography, subtle gradients, glass-effect cards where appropriate, soft shadows, thin borders and professional industrial imagery.
+
+Use smooth animations and transitions throughout the website without making it look like a gaming website.
+
+### HEADER
+
+Create a professional sticky header.
+
+Top small information bar:
+
+"Industrial Automation • Instrumentation • Process Control • Flow Measurement"
+
+Main header:
+
+* IE logo on left
+* Navigation centered/right:
+  HOME
+  PRODUCTS
+  ABOUT
+  CONTACT
+* Search icon
+* "Request a Quote" button
+
+Header should become slightly smaller and gain a subtle shadow when scrolling.
+
+### HOME PAGE
+
+Create a powerful hero section.
+
+Left side:
+
+Small label:
+
+"INDUSTRIAL AUTOMATION & INSTRUMENTATION"
+
+Main heading:
+
+"Reliable Industrial Solutions for Smarter Operations"
+
+Supporting text:
+
+"Explore professional instrumentation, automation and process measurement solutions for industrial applications."
+
+Buttons:
+
+"EXPLORE PRODUCTS"
+"REQUEST A QUOTE"
+
+Right side:
+
+Use a premium photorealistic industrial composition showing:
+
+* Flowmeter
+* Pressure transmitter
+* Level transmitter
+* Gas analyzer
+* Industrial control equipment
+* Stainless-steel process piping
+
+Add subtle animated technical lines, data particles and glowing cyan connection points.
+
+Do not overuse animation.
+
+### PRODUCT SEARCH
+
+Immediately below the hero, create a large professional product-search panel.
+
+Heading:
+
+"Find the Right Industrial Solution"
+
+Search placeholder:
+
+"Search by Product Name, Model, Brand or Part Number..."
+
+Include:
+
+* Search button
+* Category dropdown
+* Brand dropdown
+
+Add smooth search interaction.
+
+### PRODUCT CATEGORIES
+
+Create a premium category section titled:
+
+"Explore Our Product Range"
+
+Create large interactive category cards for:
+
+1. Flow Measurement
+2. Pressure Measurement
+3. Level Measurement
+4. Temperature Measurement
+5. Gas Analyzers
+6. Gas Detection & Safety
+7. Process Control
+8. Electrical & Energy Meters
+9. Industrial Automation
+10. Sensors & Transmitters
+11. Valves & Accessories
+12. Calibration Equipment
+
+Each card should contain:
+
+* Professional industrial image
+* Category icon
+* Category title
+* Short description
+* "View Products →"
+
+On hover:
+
+* Image zooms slightly
+* Card rises upward
+* Cyan accent line appears
+* Arrow moves slightly to the right
+
+### FEATURED PRODUCTS
+
+Create a section:
+
+"Featured Industrial Products"
+
+Display premium product cards with:
+
+* Product image
+* Brand
+* Product name
+* Model number
+* Short technical description
+* "View Details"
+* "Request Quote"
+
+Example products:
+
+Electromagnetic Flowmeter
+Vortex Flowmeter
+Thermal Mass Flowmeter
+Radar Level Transmitter
+Pressure Transmitter
+Temperature Transmitter
+Gas Analyzer
+Gas Detector
+Energy Meter
+Digital Panel Meter
+
+Do NOT display fake prices.
+
+Instead use:
+
+"Request Quote"
+
+### BRANDS SECTION
+
+Create a professional "Featured Brands" section.
+
+Display brand logos in clean white cards.
+
+Example brands can include:
+
+* Bühler Technologies
+* Supmea
+* Ventilumix USA LLC
+* ANALOX
+* Kaifeng Laizobor
+* WIKA
+* NAI-LOX
+* SHENGDA
+
+Only display brands that are actually supplied or authorized by IE when the website goes live.
+
+Add subtle grayscale-to-color hover animation.
+
+### WHY IE
+
+Create a premium dark navy section.
+
+Heading:
+
+"Engineering Solutions You Can Depend On"
+
+Create four feature cards:
+
+01
+"Technical Expertise"
+
+02
+"Quality Products"
+
+03
+"Industrial Applications"
+
+04
+"Professional Support"
+
+Add animated technical background lines.
+
+### INDUSTRIES WE SERVE
+
+Create an industrial visual section.
+
+Industries:
+
+* Oil & Gas
+* Chemical & Petrochemical
+* Power Generation
+* Water & Wastewater
+* Manufacturing
+* Cement
+* Steel
+* Food & Beverage
+* Pharmaceutical
+* Process Industries
+
+Use professional industrial imagery.
+
+### CALIBRATION & SERVICES
+
+Create a separate section:
+
+"Calibration & Technical Services"
+
+Include:
+
+Pressure Calibration
+Temperature Calibration
+Level Calibration
+Flow Calibration
+Gas Analyzer Calibration
+Instrumentation Services
+Industrial Installation
+Technical Support
+
+Button:
+
+"Explore Services"
+
+### CTA SECTION
+
+Create a strong full-width navy/cyan section.
+
+Heading:
+
+"Looking for the Right Industrial Product?"
+
+Text:
+
+"Tell us what you need and our technical team will help you find the right solution."
+
+Buttons:
+
+"REQUEST A QUOTE"
+"CONTACT US"
+
+### ABOUT PAGE
+
+Create a professional corporate About page.
+
+Sections:
+
+About IE
+Our Expertise
+Our Mission
+Our Vision
+Industries We Serve
+Quality & Certifications
+Technical Support
+
+Use industrial photography and premium statistics cards.
+
+Do not invent company statistics. Use placeholders until real company data is provided.
+
+### PRODUCTS PAGE
+
+Create a professional product catalog.
+
+Layout:
+
+LEFT SIDEBAR:
+
+Categories
+Brands
+Application
+Product Type
+
+RIGHT SIDE:
+
+Search bar
+Sort dropdown
+Product grid
+
+Each product card:
+
+* Image
+* Brand
+* Product name
+* Model
+* Technical highlights
+* "View Details"
+* "Request Quote"
+
+Add pagination.
+
+Product detail page should contain:
+
+Large product image
+Product name
+Brand
+Model
+Overview
+Key Features
+Technical Specifications
+Applications
+Downloads
+Related Products
+Request Quote button
+
+### CONTACT PAGE
+
+Create a premium contact page.
+
+Include:
+
+"Let's Discuss Your Industrial Requirement"
+
+Contact form:
+
+Name
+Company
+Email
+Phone
+Product / Requirement
+Message
+
+Button:
+
+"Send Inquiry"
+
+Also include:
+
+Phone
+Email
+Website
+Office Address
+
+Add a professional map section.
+
+### FOOTER
+
+Create a large dark navy footer.
+
+Columns:
+
+PRODUCTS
+
+Flow Measurement
+Pressure
+Level
+Temperature
+Gas Analysis
+Automation
+Electrical
+
+COMPANY
+
+Home
+Products
+About
+Contact
+
+SERVICES
+
+Calibration
+Technical Support
+Industrial Solutions
+
+CONTACT
+
+Phone
+Email
+Website
+Address
+
+Bottom:
+
+"© 2026 IE. All Rights Reserved."
+
+### UX / ANIMATION
+
+Use:
+
+* Smooth scrolling
+* Scroll reveal animations
+* Fade-up sections
+* Product-card hover effects
+* Image zoom
+* Counter animations
+* Sticky header
+* Animated search interaction
+* Smooth page transitions
+* Subtle cyan glow effects
+* Micro-interactions on buttons
+
+Animations must remain professional and fast.
+
+### TECHNICAL REQUIREMENTS
+
+Build the website responsive for:
+
+Desktop
+Laptop
+Tablet
+Mobile
+
+Use:
+
+* Semantic HTML
+* Modern CSS
+* JavaScript
+* Bootstrap 5 or Tailwind CSS
+* Font Awesome / Lucide icons
+* Google Fonts
+
+Use external CDN libraries where appropriate.
+
+Optimize for:
+
+* Fast loading
+* SEO
+* Accessibility
+* Mobile responsiveness
+* Clean code
+* Professional UI
+* Product discoverability
+
+IMPORTANT:
+
+The website should look like a **premium industrial marketplace/catalog**, not a generic corporate template.
+
+Do not copy Radwell's exact design. Take inspiration only from its concept of:
+
+industrial product discovery + powerful search + categories + product catalog + technical services.
+
+The final visual identity must be completely unique to **IE**, using a **premium navy blue, white and subtle cyan corporate theme**.
+
+IMPORTANT BRANDING RULE:
+
+Do not use the name "Alam Enterprises" anywhere in the website.
+
+The only company/brand name displayed throughout the website must be:
+
+**IE**
+
+Replace every occurrence of "Alam Enterprises", "Alam", or any previous company name with **IE**.
+
+Use **IE** consistently in:
+
+* Logo
+* Header
+* Navigation
+* Hero section
+* About page
+* Footer
+* CTA sections
+* Contact section
+* Metadata
+* Page titles
+* SEO descriptions
+* Product inquiry forms
+* Copyright
+* Any other visible or hidden website content.
